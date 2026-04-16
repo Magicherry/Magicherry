@@ -1,13 +1,12 @@
 <div align="center">
   <h1>
-    Heyyo
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30" alt="wave" />
-    I'm Yuting Zhou
+    Hey, I'm Yuting Zhou
   </h1>
 
   <p>
     <a href="https://magicherry.github.io/">
-      <img alt="Portfolio" src="https://img.shields.io/badge/-PORTFOLIO-9146FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      <img alt="Website" src="https://img.shields.io/badge/-MAGICHERRY.GITHUB.IO-0A66C2?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
     </a>
     <a href="https://github.com/Magicherry">
       <img alt="GitHub" src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
