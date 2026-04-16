@@ -7,16 +7,19 @@
 
   <p>
     <a href="https://magicherry.github.io/">
-      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-magicherry.github.io-9146FF?style=for-the-badge&logo=appveyor&logoColor=white" />
+      <img alt="Portfolio" src="https://img.shields.io/badge/-PORTFOLIO-9146FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
     </a>
     <a href="https://github.com/Magicherry">
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Magicherry-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="GitHub" src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/yuting-zhou-5140ba299/">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yuting_Zhou-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img alt="LinkedIn" src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:zyt680129@gmail.com">
-      <img alt="Email" src="https://img.shields.io/badge/Email-zyt680129%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img alt="Email" src="https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://space.bilibili.com/155876727">
+      <img alt="Bilibili" src="https://img.shields.io/badge/-BILIBILI-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
     </a>
   </p>
 
@@ -84,4 +87,3 @@ This profile README is adapted from the soumyajit4419-master style and customize
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Magicherry&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Magicherry GitHub activity graph" />
 </div>
-
