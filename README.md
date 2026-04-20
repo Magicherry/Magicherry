@@ -93,6 +93,9 @@ This profile README is adapted from the soumyajit4419-master style and customize
   <a href="https://redis.io/">
     <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   </a>
+  <a href="https://spark.apache.org/">
+    <img alt="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  </a>
   <a href="https://pytorch.org/">
     <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   </a>
