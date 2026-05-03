@@ -6,7 +6,7 @@
 
   <p>
     <a href="https://magicherry.github.io/">
-      <img alt="Website" src="https://img.shields.io/badge/-MAGICHERRY.GITHUB.IO-0A66C2?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+      <img alt="Personal website on GitHub Pages" src="https://img.shields.io/badge/-MAGICHERRY.GITHUB.IO-24292F?style=for-the-badge&logo=githubpages&logoColor=white" />
     </a>
     <a href="https://github.com/Magicherry">
       <img alt="GitHub" src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -102,6 +102,9 @@ This profile README is adapted from the soumyajit4419-master style and customize
   <a href="https://www.tensorflow.org/">
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   </a>
+  <a href="https://www.langchain.com/">
+    <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  </a>
   <a href="https://opencv.org/">
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   </a>
@@ -125,7 +128,7 @@ This profile README is adapted from the soumyajit4419-master style and customize
 ## My GitHub Data
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Magicherry&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Magicherry GitHub stats" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Magicherry&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Magicherry GitHub stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Magicherry&theme=tokyonight&hide_border=true" alt="Magicherry GitHub streak" />
 </div>
 
