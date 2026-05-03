@@ -128,8 +128,8 @@ This profile README is adapted from the soumyajit4419-master style and customize
 ## My GitHub Data
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Magicherry&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Magicherry GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Magicherry&theme=tokyonight&hide_border=true" alt="Magicherry GitHub streak" />
+  <img width="380" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Magicherry&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Magicherry GitHub stats" />
+  <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=Magicherry&theme=tokyonight&hide_border=true" alt="Magicherry GitHub streak" />
 </div>
 
 <br />
